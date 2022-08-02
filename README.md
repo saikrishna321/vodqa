@@ -4,4 +4,4 @@ Steps to get your dev system setup.
 2. bower install
 
 3. run gulp command : gulp
-4. the server is running on port 5454
+4. the server is running on port 5454.
